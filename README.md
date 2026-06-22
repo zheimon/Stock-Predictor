@@ -84,7 +84,7 @@ python train_model.py --epochs 50
 **13 Technical Indicators:**
 - OHLCV (Open, High, Low, Close, Volume)
 - Returns, Volume Ratio, Price Ratios
-- SMA 5/20, RSI, Volatility
+- SMA 5/20, RSI, Volatility. 
 
 **Key Improvements:**
 - Fixed severe class bias (85% → 25% per class)
