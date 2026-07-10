@@ -1,4 +1,4 @@
-# 📈 Stock Trading System with LSTM ( 11th International Conference on Machine Learning Technologies (ICMLT 2026)) . {sponsored by IEEE and India International Congress on Computational Intelligence (IICCI), technically co-sponsored by IEEE Germany Section, hosted by Global Energy Interconnection Research Institute Europe GmbH (GEIRI Europe).} 
+# 📈 Stock Trading System with LSTM [Published]  ( 11th International Conference on Machine Learning Technologies (ICMLT 2026)) . {sponsored by IEEE and India International Congress on Computational Intelligence (IICCI), technically co-sponsored by IEEE Germany Section, hosted by Global Energy Interconnection Research Institute Europe GmbH (GEIRI Europe).} 
 Paper published in the , IEEE, IEEE Explore, Ei Compendex and Scopus. 
 
 Real-time stock pattern recognition using LSTM neural networks with an interactive dashboard for live trading signals.
